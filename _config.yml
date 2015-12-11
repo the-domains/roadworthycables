@@ -1,0 +1,28 @@
+name: RoadworthyCables
+favicon: null
+layout_spectrum: 0.08017902751453221
+typography_spectrum: 0.09979301760904491
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5303608607500792
+  lightness: 0.10846105520613492
+  saturation: 0.027826139936223626
+  rhythmicContrast: 0.3261349673848599
+purpose: []
